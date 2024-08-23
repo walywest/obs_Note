@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "5526be5d0ab0e7e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f374b2ccd3d157a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f01eed635b58e908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "collections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5e509baf230dd12",
+    "type": "split",
+    "children": [
+      {
+        "id": "c845802682caad2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb85f6da77ba101",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20f098e1f1a57b62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f7dc0f4bd3802c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0fb42cd7017efe59",
+    "type": "split",
+    "children": [
+      {
+        "id": "2804e894fb2aa861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "878fb008874fc6bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "collections.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6825fa236b5c36ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "collections.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "222476554d268597",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79986b81e4a06ad3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "collections.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f01eed635b58e908",
+  "lastOpenFiles": [
+    "dequeu.md",
+    "collections.md",
+    "queu.md",
+    "sorting.md",
+    "stack.md",
+    "hashmap.md",
+    "Preparation.md",
+    "Video/Consulting.md",
+    "neetcode.md",
+    "precision.md",
+    "stl_containers_guide_pdf.md",
+    "quicksort.md",
+    "Project Ideas/Customer service.md",
+    "Project Ideas/Messaging app.md",
+    "Project Ideas/Gamble.md",
+    "Raw Java.md",
+    "Instructions/Markdown.md",
+    "double.md",
+    "todo/IDE problems.md",
+    "Untitled",
+    "todo/Untitled.md",
+    "todo/workflow.md",
+    "WARP WORKFLOW.md",
+    "perso/Mutual_1337.md",
+    "Project Ideas",
+    "perso",
+    "READMES/Cub3D.md",
+    "READMES",
+    "Instructions",
+    "todo/Network Manager.md",
+    "Hotspot.md",
+    "todo/Untitled",
+    "Video",
+    "todo",
+    "Untitled.canvas"
+  ]
+}
