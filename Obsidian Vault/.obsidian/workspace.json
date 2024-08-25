@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collections.md",
+                "file": "list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collections.md",
+                "file": "list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "collections.md",
+                "file": "list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collections.md"
+                "file": "list.md"
               }
             }
           }
@@ -148,37 +148,37 @@
   },
   "active": "f01eed635b58e908",
   "lastOpenFiles": [
+    "Video/Consulting.md",
     "dequeu.md",
     "collections.md",
+    "Preparation.md",
+    "list.md",
+    "python_containers.md",
+    "Raw Java.md",
+    "hashmap.md",
+    "jiji.md",
+    "system/HOW TO READ.md",
+    "neetcode.md",
+    "system",
     "queu.md",
     "sorting.md",
     "stack.md",
-    "hashmap.md",
-    "Preparation.md",
-    "Video/Consulting.md",
-    "neetcode.md",
     "precision.md",
     "stl_containers_guide_pdf.md",
     "quicksort.md",
     "Project Ideas/Customer service.md",
     "Project Ideas/Messaging app.md",
     "Project Ideas/Gamble.md",
-    "Raw Java.md",
     "Instructions/Markdown.md",
     "double.md",
     "todo/IDE problems.md",
-    "Untitled",
     "todo/Untitled.md",
     "todo/workflow.md",
     "WARP WORKFLOW.md",
-    "perso/Mutual_1337.md",
     "Project Ideas",
     "perso",
-    "READMES/Cub3D.md",
     "READMES",
     "Instructions",
-    "todo/Network Manager.md",
-    "Hotspot.md",
     "todo/Untitled",
     "Video",
     "todo",
